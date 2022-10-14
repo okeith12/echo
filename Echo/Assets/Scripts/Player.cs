@@ -7,12 +7,12 @@ public class Player : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        Debug.Log("Hello Okeith");
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 }
